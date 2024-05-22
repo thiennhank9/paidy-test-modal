@@ -1,0 +1,15 @@
+button {
+  width: 300px;
+  min-height: 50px;
+  display: block;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 138, 255, 1) 55%,
+    rgba(9, 9, 121, 1) 100%,
+    rgba(2, 0, 36, 1) 100%
+  );
+}

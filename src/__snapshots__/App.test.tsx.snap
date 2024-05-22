@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App render App 1`] = `
+<div
+  className="app"
+>
+  <div
+    className="modal"
+  >
+    <div
+      className="modal-header"
+    >
+      <section
+        className="header"
+      >
+        <div>
+          <h1>
+            SHOP NAME
+          </h1>
+          <h1>
+            ¥ 99,999
+          </h1>
+        </div>
+        <img
+          alt="paidy-logo"
+          className="logo"
+          src="paidy-logo.png"
+        />
+      </section>
+    </div>
+    <div
+      className="modal-body"
+    >
+      <form>
+        <label>
+          メールアドレス
+        </label>
+        <input />
+        <label>
+          携帯電話番号
+        </label>
+        <input
+          aria-label="input-phone"
+          onKeyPress={[Function]}
+          onPaste={[Function]}
+        />
+        <div
+          className="bottom"
+        >
+          <span
+            className="term-line"
+          >
+            <a>
+              利用規約・個人情報取扱条項
+            </a>
+             に同意して
+          </span>
+          <button>
+            次へ
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;

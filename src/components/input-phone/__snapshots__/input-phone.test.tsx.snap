@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputPhone render InputPhone 1`] = `
+<input
+  aria-label="input-phone"
+  onKeyPress={[Function]}
+  onPaste={[Function]}
+/>
+`;
